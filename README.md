@@ -14,3 +14,4 @@ Had to install:
 
 TEST 1: Update Code in Workspace
 TEST 2: Update direkt im Repo (hier: im integrierten Editor innerhalb des Repos)
+TEST 3a: Erneute Änderung im Workspace
