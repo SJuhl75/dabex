@@ -24,3 +24,4 @@ TEST 4: Einschub im Repo
  e0307c7 ("Codespace bestimmt, wo es lang geht, Automerge ist kein Allheilmittel und kann auch zu)
 TEST 5: Wo ist 3a hin?
 TEST6
+TEST7: Ordenlich sein: Datei ändern, dann committen (im Codespace!)
