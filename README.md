@@ -19,4 +19,5 @@ TEST 3b: Parallele Änderung im Repo (analog zu Test 2 -> Commit directly to mai
 TEST 4: Einschub im Repo
 .. 4a: Einschub im Codespace
 ... 4b: im Repo
+... 4d im Repo
 TEST 5: Wo ist 3a hin?
