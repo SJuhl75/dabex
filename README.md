@@ -13,3 +13,4 @@ Had to install:
 /workspaces/codespaces-openvpn/dab3/dab-cmdline/example-5/build/dab-rtl_tcp-5 -H 192.168.178.61
 
 TEST 1: Update Code in Workspace
+TEST 2: Update direkt im Repo (hier: im integrierten Editor innerhalb des Repos)
