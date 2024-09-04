@@ -17,4 +17,5 @@ TEST 2: Update direkt im Repo (hier: im integrierten Editor innerhalb des Repos)
 TEST 3a: Erneute Änderung im Workspace
 TEST 3b: Parallele Änderung im Repo (analog zu Test 2 -> Commit directly to main Branch)
 TEST 4: Einschub im Repo
+.. 4a: Einschub im Codespace
 TEST 5: Wo ist 3a hin?
