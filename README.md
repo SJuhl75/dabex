@@ -25,3 +25,4 @@ TEST 4: Einschub im Repo
 ... 4c: im Codespace
 >>>>>>> e0307c7 ("Codespace bestimmt, wo es lang geht, Automerge ist kein Allheilmittel und kann auch zu)
 TEST 5: Wo ist 3a hin?
+TEST6
